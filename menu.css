@@ -1,0 +1,30 @@
+html{
+    border-right: 1px solid whitesmoke;
+    border-left:1px solid whitesmoke;
+    width:80%;
+    margin:auto;
+    padding:10px;
+    background-color: rgb(49, 49, 49);
+    color:whitesmoke;
+}
+table {
+  width:50%;
+  margin:auto;
+  }
+  img{
+    border: 1px solid grey;
+  }
+  h1,ul,li{
+    width:50%;
+    margin:auto;
+  }
+
+  a{
+    color:darkgrey;
+}
+a:visited {
+    color:crimson;
+}
+a:hover{
+    color:wheat;
+}
