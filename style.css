@@ -13,12 +13,3 @@ html{
     color:whitesmoke;
     
 }
-a{
-    color:darkgrey;
-}
-a:visited {
-    color:crimson;
-}
-a:hover{
-    color:wheat;
-}
